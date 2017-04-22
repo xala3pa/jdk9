@@ -1,2 +1,1 @@
-# jdk9
-Jk9 Virtual JUG
+JDK 9 Virtual JUG
