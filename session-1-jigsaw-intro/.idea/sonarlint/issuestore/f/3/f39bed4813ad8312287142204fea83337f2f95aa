@@ -1,0 +1,5 @@
+
+Osquid:S1118":Add a private constructor to hide the implicit public one.(àªÅö
+9squid:S2275"%String contains no format specifiers.(Ì²ëN
+N
+squid:S106";Replace this usage of System.out or System.err by a logger.(Ì²ëN

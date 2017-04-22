@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/01_Greetings/01_Greetings.iml" filepath="$PROJECT_DIR$/01_Greetings/01_Greetings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02_GreetingsWorld/02_GreetingsWorld.iml" filepath="$PROJECT_DIR$/02_GreetingsWorld/02_GreetingsWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03_MultiModuleCompilation/03_MultiModuleCompilation.iml" filepath="$PROJECT_DIR$/03_MultiModuleCompilation/03_MultiModuleCompilation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04_Packaging/04_Packaging.iml" filepath="$PROJECT_DIR$/04_Packaging/04_Packaging.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05_Missing_exports/05_Missing_exports.iml" filepath="$PROJECT_DIR$/05_Missing_exports/05_Missing_exports.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05_Missing_requires/05_Missing_requires.iml" filepath="$PROJECT_DIR$/05_Missing_requires/05_Missing_requires.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06_Services/06_Services.iml" filepath="$PROJECT_DIR$/06_Services/06_Services.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07_patch_module_option/07_patch_module_option.iml" filepath="$PROJECT_DIR$/07_patch_module_option/07_patch_module_option.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08_ModulesExportConflict/08_ModulesExportConflict.iml" filepath="$PROJECT_DIR$/08_ModulesExportConflict/08_ModulesExportConflict.iml" />
+    </modules>
+  </component>
+</project>
